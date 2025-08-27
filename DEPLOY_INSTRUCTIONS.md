@@ -41,7 +41,7 @@ git push -u origin main
 
 7. **Environment Variables** (clicca "Advanced"):
    ```
-   MONGODB_URI=mongodb+srv://rentabike:rentabike123@cluster0.jj5whnf.mongodb.net/rentabike
+   MONGODB_URI=mongodb+srv://nicotrameri:rentabike123@cluster0.jj5whnf.mongodb.net/rentabike
    JWT_SECRET=your-super-secret-jwt-key-change-in-production
    NODE_ENV=production
    PORT=10000
