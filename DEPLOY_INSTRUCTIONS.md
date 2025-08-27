@@ -17,7 +17,7 @@
 7. **Nel terminale**, esegui questi comandi:
 ```bash
 cd "c:\Users\nicot\Desktop\Rent a Bike"
-git remote add origin https://github.com/nicotrameri/rent-a-bike-system.git
+git remote add origin https://github.com/Trameri/rent-a-bike-systema.git
 git branch -M main
 git push -u origin main
 ```
@@ -27,7 +27,7 @@ git push -u origin main
 1. **Vai su** [render.com](https://render.com)
 2. **Fai login** con GitHub
 3. **Clicca** "New +" → "Web Service"
-4. **Seleziona** il repository `rent-a-bike-system`
+4. **Seleziona** il repository `rent-a-bike-systema`
 5. **Clicca** "Connect"
 
 ### ⚙️ Configurazione Render:
@@ -56,7 +56,7 @@ git push -u origin main
 1. **Vai su** [vercel.com](https://vercel.com)
 2. **Fai login** con GitHub
 3. **Clicca** "New Project"
-4. **Seleziona** il repository `rent-a-bike-system`
+4. **Seleziona** il repository `rent-a-bike-systema`
 5. **Clicca** "Import"
 
 ### ⚙️ Configurazione Vercel:
