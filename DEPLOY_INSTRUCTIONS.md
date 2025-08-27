@@ -44,7 +44,7 @@ git push -u origin main
    MONGODB_URI=mongodb+srv://nicotrameri:Weimia@cluster0.jj5whnf.mongodb.net/rentabike
    JWT_SECRET=your-super-secret-jwt-key-change-in-production
    NODE_ENV=production
-   PORT=10000
+   PORT=4000
    ```
 
 8. **Clicca** "Create Web Service"
