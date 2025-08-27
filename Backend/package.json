@@ -22,7 +22,9 @@
     "dotenv": "^16.3.1",
     "jsbarcode": "^3.11.5",
     "canvas": "^2.11.2",
-    "nanoid": "^5.0.4"
+    "nanoid": "^5.0.4",
+    "moment": "^2.29.4",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
