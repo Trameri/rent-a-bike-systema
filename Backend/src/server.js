@@ -3,7 +3,7 @@ import express from "express";
 import cors from "cors";
 import path from "path";
 import { fileURLToPath } from 'url';
-import connectDB from "./config/db.js";
+import connectDB from "./Config/db.js";
 import authRoutes from "./routes/authNew.js";
 import bikeRoutes from "./routes/bikes.js";
 import accessoryRoutes from "./routes/accessories.js";
